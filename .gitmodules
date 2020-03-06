@@ -1,0 +1,3 @@
+[submodule "wyrm"]
+	path = wyrm
+	url = git@github.com:akiramenai/wyrm.git
